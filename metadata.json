@@ -1,0 +1,5 @@
+{
+  "name": "Z-ESIM API Explorer",
+  "description": "A professional dashboard for managing and exploring eSIM cellular APIs, featuring inventory management, usage analytics, and API simulation.",
+  "requestFramePermissions": []
+}
